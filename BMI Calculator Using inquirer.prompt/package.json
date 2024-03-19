@@ -1,0 +1,18 @@
+{
+  "name": "bmi-calculator-using-inquirer.prompt",
+  "version": "1.0.1",
+  "description": "This is a Simple BMI Calculator using Inquirer ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zia",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
