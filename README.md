@@ -1,1 +1,1 @@
-# Online-Class-Projects
+Creating an online class project in TypeScript can be a great way to demonstrate your skills in both TypeScript and web development.Thanks for Best Idea Sir Zia Khan , Sir Ameen Alam and other facalty members.
