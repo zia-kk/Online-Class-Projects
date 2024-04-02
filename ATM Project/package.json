@@ -1,0 +1,23 @@
+{
+  "name": "zia_atm_machine_pincode_1234",
+  "version": "1.0.2",
+  "description":"this is a simple node ATM machine project",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {"access": "public"},
+
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Zia",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
