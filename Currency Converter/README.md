@@ -1,1 +1,1 @@
-Creating an online class project in TypeScript can be a great way to demonstrate your skills in both TypeScript and web development.Thanks for Best Idea Sir Zia Khan , Sir Ameen Alam and other facalty members.
+This is a simple currency converter program learned in an online coding class led by Sir Okasha.As we are still in the learning stage, the features of add task, remove task and view task are not included.Hopefully it will be improved very soon
