@@ -1,1 +1,1 @@
-
+This is a simple to-do list program learned in an online coding class led by Miss @Manal Rana.As we are still in the learning stage, the features of add task, remove task and view task are not included.Hopefully it will be improved very soon
